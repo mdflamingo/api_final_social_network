@@ -1,6 +1,5 @@
-from http import HTTPStatus
-
 import pytest
+from http import HTTPStatus
 
 
 @pytest.mark.django_db(transaction=True)
