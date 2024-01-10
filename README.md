@@ -1,4 +1,4 @@
-# CRUD для Yatube
+# CRUD для social-network
 
 #### API для всех моделей приложения.
 
